@@ -1,7 +1,7 @@
-# **LEVEL UP!**   
+# **eduXpert**   
 
 
-#### Team Name : **daemondemons**
+#### Team Name : **GeekLords**
 
 ## 👩‍💻 Team members
 
@@ -22,7 +22,7 @@
 
 ## 🔗 Links
 
-- GitHub repo link: [Link to repository](https://github.com/avishkarchavle/levelup)
+- GitHub repo link: [Link to repository](https://github.com/Apurv428/eduxpert)
 - Drive link : [Drive link here](https://drive.google.com/drive/u/0/folders/1wDcqVdWMw1rKpB2OPjGDsReBXP0YjFWx)
 - Website link: [Deployed link here](http://leveluppro.herokuapp.com/)
 
@@ -67,13 +67,13 @@ After setting up for Web App, follow the below instructions to get it running.
 
 1. Enter mongod and mongo command to connect to the database.
 
-2. Go to gitbash/command prompt, make sure you are in LEVELUP directory, run following command in gitbash
+2. Go to gitbash/command prompt, make sure you are in eduXpert directory, run following command in gitbash
 
 ```
 nodemon app.js
 ```
 
-3. Open  [localhost:3000/] (localhost:3000/) in your browser to use LEVELUP!.
+3. Open  [localhost:3000/] (localhost:3000/) in your browser to use eduXpert!.
 
 ## 🔮 Future Scope
 
