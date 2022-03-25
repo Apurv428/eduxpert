@@ -6,14 +6,13 @@
 ## 👩‍💻 Team members
 
 - **Avishkar Chavle** - aschavle_b20@ce.vjti.ac.in
-- **Priti Ghuge** - pcghuge_b20@et.vjti.ac.in
-- **Samarth Langote** - splangote_b20@ce.vjti.ac.in
-- **Snehal Sonule** - sasonule_b20@et.vjti.ac.in
+- **Harsh Gawli** - hpgawli_b20@ce.vjti.ac.in
+- **Dushant Harinkhede** - dtharinkhede_b20@ce.vjti.ac.in
+- **Anshika Sharma** - asharma_b20@ce.vjti.ac.in
+- **Apurv Sonawane** - arsonawane_b20@el.vjti.ac.in
+- **Kanhaiyya Shendage** - kdshendage_b20@et.vjti.ac.in
 
-## 👨‍🏫 Mentors
 
-- **VEDANT MODKAR**
-- **CHAHAT BAGHELE**
 
 
 ## 📝 Description
