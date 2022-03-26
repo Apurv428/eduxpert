@@ -83,6 +83,7 @@ eduXpert is a web app and marketplace to get home tutoring services in your loca
 - [ ] More user friendly UI will be developed for user comfort.
 - [ ] we will verify all the email ids and students and notifications will be sent to users via email and SMS.
 - [ ] Will make a chat session page for students to solve their doubts on their own and seperate QNA page for teacher and students.
+- [ ] Connect students and teachers through call/sms/video calls.
 
 ## 🖼 Recording
 
