@@ -1,18 +1,19 @@
-# **eduXpert**   
+# **LEVEL UP!**   
 
 
-#### Team Name : **GeekLords**
+#### Team Name : **daemondemons**
 
 ## 👩‍💻 Team members
 
 - **Avishkar Chavle** - aschavle_b20@ce.vjti.ac.in
-- **Harsh Gawli** - hpgawli_b20@ce.vjti.ac.in
-- **Dushant Harinkhede** - dtharinkhede_b20@ce.vjti.ac.in
-- **Anshika Sharma** - asharma_b20@ce.vjti.ac.in
-- **Apurv Sonawane** - arsonawane_b20@el.vjti.ac.in
-- **Kanhaiyya Shendage** - kdshendage_b20@et.vjti.ac.in
+- **Priti Ghuge** - pcghuge_b20@et.vjti.ac.in
+- **Samarth Langote** - splangote_b20@ce.vjti.ac.in
+- **Snehal Sonule** - sasonule_b20@et.vjti.ac.in
 
+## 👨‍🏫 Mentors
 
+- **VEDANT MODKAR**
+- **CHAHAT BAGHELE**
 
 
 ## 📝 Description
@@ -22,8 +23,9 @@
 
 ## 🔗 Links
 
-- GitHub repo link: [Link to repository](https://github.com/Apurv428/eduxpert)
-
+- GitHub repo link: [Link to repository](https://github.com/avishkarchavle/levelup)
+- Drive link : [Drive link here](https://drive.google.com/drive/u/0/folders/1wDcqVdWMw1rKpB2OPjGDsReBXP0YjFWx)
+- Website link: [Deployed link here](http://leveluppro.herokuapp.com/)
 
 ## 🤖 Technology Stack
 
@@ -66,16 +68,13 @@ After setting up for Web App, follow the below instructions to get it running.
 
 1. Enter mongod and mongo command to connect to the database.
 
-2. Go to gitbash/command prompt, make sure you are in eduXpert directory, run following command in gitbash
+2. Go to gitbash/command prompt, make sure you are in LEVELUP directory, run following command in gitbash
 
 ```
 nodemon app.js
 ```
 
-3. Open  [localhost:3000/] (localhost:3000/) in your browser to use eduXpert!.
-  
- ## 💻 Application:
-eduXpert is a web app and marketplace to get home tutoring services in your locality. Get the most authentic, affordable, and rewarding learning experience at home with eduXpert. We make finding the right tutor easier than ever before. For students, we make it easier to find the right tutor for their topic of concern and get excited again about learning. For tutors, our marketplace means they can find more students and clients
+3. Open  [localhost:3000/] (localhost:3000/) in your browser to use LEVELUP!.
 
 ## 🔮 Future Scope
 
@@ -83,9 +82,8 @@ eduXpert is a web app and marketplace to get home tutoring services in your loca
 - [ ] More user friendly UI will be developed for user comfort.
 - [ ] we will verify all the email ids and students and notifications will be sent to users via email and SMS.
 - [ ] Will make a chat session page for students to solve their doubts on their own and seperate QNA page for teacher and students.
-- [ ] Connect students and teachers through call/sms/video calls.
 
 ## 🖼 Recording
 
--recording: [tap here](https://drive.google.com/folderview?id=1G2WvTLHUuoncGxovpKrUMb95g5kaXexA)
+-recording: [tap here](https://drive.google.com/file/d/1EWiXdlGpT8bXRLbhaH2s4HJ3ovP0b6nL/view?usp=sharing)
 
