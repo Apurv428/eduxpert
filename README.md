@@ -23,8 +23,7 @@
 ## 🔗 Links
 
 - GitHub repo link: [Link to repository](https://github.com/Apurv428/eduxpert)
-- Drive link : [Drive link here](https://drive.google.com/drive/u/0/folders/1wDcqVdWMw1rKpB2OPjGDsReBXP0YjFWx)
-- Website link: [Deployed link here](http://leveluppro.herokuapp.com/)
+
 
 ## 🤖 Technology Stack
 
@@ -74,6 +73,9 @@ nodemon app.js
 ```
 
 3. Open  [localhost:3000/] (localhost:3000/) in your browser to use eduXpert!.
+  
+ ## 💻 Application:
+eduXpert is a web app and marketplace to get home tutoring services in your locality. Get the most authentic, affordable, and rewarding learning experience at home with eduXpert. We make finding the right tutor easier than ever before. For students, we make it easier to find the right tutor for their topic of concern and get excited again about learning. For tutors, our marketplace means they can find more students and clients
 
 ## 🔮 Future Scope
 
