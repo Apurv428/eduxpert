@@ -87,5 +87,5 @@ eduXpert is a web app and marketplace to get home tutoring services in your loca
 
 ## 🖼 Recording
 
--recording: [tap here](https://drive.google.com/file/d/1EWiXdlGpT8bXRLbhaH2s4HJ3ovP0b6nL/view?usp=sharing)
+-recording: [tap here](https://drive.google.com/folderview?id=1G2WvTLHUuoncGxovpKrUMb95g5kaXexA)
 
