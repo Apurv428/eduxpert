@@ -1,14 +1,15 @@
-# **LEVEL UP!**   
+# **eduXpert**   
 
 
-#### Team Name : **daemondemons**
+#### Team Name : **GeekLords**
 
 ## 👩‍💻 Team members
 
 - **Avishkar Chavle** - aschavle_b20@ce.vjti.ac.in
-- **Priti Ghuge** - pcghuge_b20@et.vjti.ac.in
-- **Samarth Langote** - splangote_b20@ce.vjti.ac.in
-- **Snehal Sonule** - sasonule_b20@et.vjti.ac.in
+- **Anshika Sharma** - pcghuge_b20@et.vjti.ac.in
+- **Apurv Sonawane** - splangote_b20@ce.vjti.ac.in
+- **Dushant Harinkhede** - sasonule_b20@et.vjti.ac.in
+- **Harsh Gawli** - hpgawli_b20@ce.vjti.ac.in
 
 ## 👨‍🏫 Mentors
 
@@ -74,7 +75,7 @@ After setting up for Web App, follow the below instructions to get it running.
 nodemon app.js
 ```
 
-3. Open  [localhost:3000/] (localhost:3000/) in your browser to use LEVELUP!.
+3. Open  [localhost:3000/] (localhost:3000/) in your browser to use eduXpert.
 
 ## 🔮 Future Scope
 
