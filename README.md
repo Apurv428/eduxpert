@@ -7,8 +7,8 @@
 
 - **Avishkar Chavle** - aschavle_b20@ce.vjti.ac.in
 - **Anshika Sharma** - pcghuge_b20@et.vjti.ac.in
-- **Apurv Sonawane** - splangote_b20@ce.vjti.ac.in
-- **Dushant Harinkhede** - sasonule_b20@et.vjti.ac.in
+- **Apurv Sonawane** - arsonawane_b20@et.vjti.ac.in
+- **Dushant Harinkhede** - dtharinkhede_b20@ce.vjti.ac.in
 - **Harsh Gawli** - hpgawli_b20@ce.vjti.ac.in
 
 ## 👨‍🏫 Mentors
