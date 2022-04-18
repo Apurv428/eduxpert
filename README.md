@@ -14,9 +14,7 @@
 
 
 ## 📝 Description
-* THIS APP WILL BE USEFUL FOR BOTH STUDENTS AND TEACHERS OUT THERE.
-                      THEY WILL HAVE TO FILL THEIR DATA SUCH AS  NAME , EDUCATION, SPLECIALIZATION , FEES , TIME MODE OF TEACHING/LEARNING (ONLINE/OFFLINE) ETC.
-                      APP WILL FIND THE MATCHES AND SUGGEST THEM TO EACH OTHER
+* This app will be useful for both students and teachers out there.They will have to fill their data such as name,education,specialization,fees,time and mode of teaching/learning(online/offline) etc. Website will find the matches and suggest them to each other.
 
 ## 🔗 Links
 
