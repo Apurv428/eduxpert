@@ -79,4 +79,4 @@ nodemon app.js
 
 ## 🖼 Recording
 
--recording: [tap here](https://drive.google.com/folderview?id=1G2WvTLHUuoncGxovpKrUMb95g5kaXexA)
+-Recording: [tap here](https://drive.google.com/folderview?id=1G2WvTLHUuoncGxovpKrUMb95g5kaXexA)
