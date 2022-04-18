@@ -6,15 +6,11 @@
 ## 👩‍💻 Team members
 
 - **Avishkar Chavle** - aschavle_b20@ce.vjti.ac.in
-- **Anshika Sharma** - pcghuge_b20@et.vjti.ac.in
+- **Anshika Sharma** - asharma_b20@ce.vjti.ac.in
 - **Apurv Sonawane** - arsonawane_b20@et.vjti.ac.in
 - **Dushant Harinkhede** - dtharinkhede_b20@ce.vjti.ac.in
 - **Harsh Gawli** - hpgawli_b20@ce.vjti.ac.in
-
-## 👨‍🏫 Mentors
-
-- **VEDANT MODKAR**
-- **CHAHAT BAGHELE**
+- **Kanhaiyya Shendage** - kdshendage_b20@et.vjti.ac.in
 
 
 ## 📝 Description
@@ -24,9 +20,8 @@
 
 ## 🔗 Links
 
-- GitHub repo link: [Link to repository](https://github.com/avishkarchavle/levelup)
-- Drive link : [Drive link here](https://drive.google.com/drive/u/0/folders/1wDcqVdWMw1rKpB2OPjGDsReBXP0YjFWx)
-- Website link: [Deployed link here](http://leveluppro.herokuapp.com/)
+- GitHub repo link: [Link to repository](https://github.com/Apurv428/eduxpert)
+- Drive link : [Drive link here](https://drive.google.com/folderview?id=1G2WvTLHUuoncGxovpKrUMb95g5kaXexA)
 
 ## 🤖 Technology Stack
 
@@ -45,7 +40,7 @@
 1. Clone the repository
 
 ```
-git clone https://github.com/avishkarchavle/levelup
+git clone https://github.com/Apurv428/eduxpert
 ```
 
 2. Install Node.js (JavaScript runtime environment) and MongoDB(document-oriented database program)
