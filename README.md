@@ -39,22 +39,22 @@
 
 1. Clone the repository
 
-```
+
 git clone https://github.com/Apurv428/eduxpert
-```
+
 
 2. Install Node.js (JavaScript runtime environment) and MongoDB(document-oriented database program)
 
 3. Install the dependencies using
 
-```
+
 npm i
-```
+
 4. Make a .env file and put following parameters
 
-```
+
 SECRET={YOUR OWN SECRET}
-```
+
 
 ## 🏃‍♀️ Usage
 
@@ -66,9 +66,9 @@ After setting up for Web App, follow the below instructions to get it running.
 
 2. Go to gitbash/command prompt, make sure you are in LEVELUP directory, run following command in gitbash
 
-```
+
 nodemon app.js
-```
+
 
 3. Open  [localhost:3000/] (localhost:3000/) in your browser to use eduXpert.
 
@@ -81,5 +81,4 @@ nodemon app.js
 
 ## 🖼 Recording
 
--recording: [tap here](https://drive.google.com/file/d/1EWiXdlGpT8bXRLbhaH2s4HJ3ovP0b6nL/view?usp=sharing)
-
+-recording: [tap here](https://drive.google.com/folderview?id=1G2WvTLHUuoncGxovpKrUMb95g5kaXexA)
